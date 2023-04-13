@@ -1,0 +1,55 @@
+Calls by Sentiment ,,, Reason for Calls ,,,Calls by Channels,,, Calls by Call Centers,,,Calls by Response Time,,,Calls by Day,,,Calls by State,
+,,,,,,,,,,,,,,,,,,,
+Row Labels,Count of id,,Row Labels,Count of id,,Row Labels,Count of id,,Row Labels,Count of id,,Row Labels,Count of id,,Row Labels,Count of id,,Row Labels,Count of id
+Negative,11063,,Billing Question,23462,,Call-Center,10639,,Baltimore/MD,11012,,Above SLA,4168,,10,13055,,Alabama,738
+Neutral,8754,,Payments,4749,,Chatbot,8256,,Chicago/IL,5419,,Below SLA,8148,,13,1117,,Alaska,146
+Positive,3928,,Service Outage,4730,,Email,7470,,Denver/CO,2776,,Within SLA,20625,,14,1090,,Arizona,737
+Very Negative,6026,,Grand Total,32941,,Web,6576,,Los Angeles/CA,13734,,Grand Total,32941,,15,1105,,Arkansas,204
+Very Positive,3170,,,,,Grand Total,32941,,Grand Total,32941,,,,,16,1132,,California,3631
+Grand Total,32941,,,,,,,,,,,,,,17,1123,,Colorado,742
+,,,,,,,,,,,,,,,18,1097,,Connecticut,408
+,,,,,,,,,,,,,,,19,1102,,Delaware,128
+Sentiments by Call Center,,,,,,,,Response time by Call Center,,,,,,,20,1077,,District of Columbia,1110
+,,,,,,,,,,,,,,,21,1170,,Florida,2834
+Count of id,Column Labels,,,,,,,Count of id,Column Labels,,,,,,22,1167,,Georgia,926
+Row Labels,Negative,Neutral,Positive,Very Negative,Very Positive,Grand Total,,Row Labels,Above SLA,Below SLA,Within SLA,Grand Total,,,23,1111,,Hawaii,149
+Baltimore/MD,3711,2927,1289,2025,1060,11012,,Baltimore/MD,1389,2768,6855,11012,,,24,1098,,Idaho,174
+Chicago/IL,1839,1445,634,972,529,5419,,Chicago/IL,697,1361,3361,5419,,,25,1063,,Illinois,848
+Denver/CO,912,800,329,492,243,2776,,Denver/CO,343,692,1741,2776,,,26,1054,,Indiana,736
+Los Angeles/CA,4601,3582,1676,2537,1338,13734,,Los Angeles/CA,1739,3327,8668,13734,,,27,1062,,Iowa,366
+Grand Total,11063,8754,3928,6026,3170,32941,,Grand Total,4168,8148,20625,32941,,,28,1144,,Kansas,467
+,,,,,,,,,,,,,,,29,1053,,Kentucky,411
+,,,,,,,,,,,,,,,30,1120,,Louisiana,627
+,,,,,,,,,,,,,,,31,1,,Maine,16
+,,,,,,,,,,,,,,,Grand Total,32941,,Maryland,415
+,,,,,,,,,,,,,,,,,,Massachusetts,493
+,,,,,,,,,,,,,,,,,,Michigan,612
+,,,,,,,,,,,,,,,,,,Minnesota,712
+,,,,,,,,,,,,,,,,,,Mississippi,178
+,,,,,,,,,,,,,,,,,,Missouri,682
+,,,,,,,,,,,,,,,,,,Montana,94
+,,,,,,,,,,,,,,,,,,Nebraska,243
+,,,,,,,,,,,,,,,,,,Nevada,459
+,,,,,,,,,,,,,,,,,,New Hampshire,51
+,,,,,,,,,,,,,,,,,,New Jersey,317
+,,,,,,,,,,,,,,,,,,New Mexico,212
+,,,,,,,,,,,,,,,,,,New York,1786
+,,,,,,,,,,,,,,,,,,North Carolina,765
+,,,,,,,,,,,,,,,,,,North Dakota,76
+,,,,,,,,,,,,,,,,,,Ohio,1160
+,,,,,,,,,,,,,,,,,,Oklahoma,538
+,,,,,,,,,,,,,,,,,,Oregon,261
+,,,,,,,,,,,,,,,,,,Pennsylvania,1017
+,,,,,,,,,,,,,,,,,,Rhode Island,35
+,,,,,,,,,,,,,,,,,,South Carolina,315
+,,,,,,,,,,,,,,,,,,South Dakota,93
+,,,,,,,,,,,,,,,,,,Tennessee,664
+,,,,,,,,,,,,,,,,,,Texas,3572
+,,,,,,,,,,,,,,,,,,Utah,298
+,,,,,,,,,,,,,,,,,,Vermont,14
+,,,,,,,,,,,,,,,,,,Virginia,1164
+,,,,,,,,,,,,,,,,,,Washington,663
+,,,,,,,,,,,,,,,,,,West Virginia,301
+,,,,,,,,,,,,,,,,,,Wisconsin,342
+,,,,,,,,,,,,,,,,,,Wyoming,11
+,,,,,,,,,,,,,,,,,,Grand Total,32941
